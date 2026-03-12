@@ -1,3 +1,5 @@
+Video: https://drive.google.com/drive/folders/1_GHW69FWPR_7SzXnh1Nf6aeeqcKoqmrJ?usp=sharing
+
 # AI Math Tutor — Image-Based Algebra Solver
 
 This project is a Streamlit app that accepts an image of an algebra problem, converts it to LaTeX, solves symbolically and numerically using SymPy, checks for common mistakes, and presents a step-by-step solution card.
